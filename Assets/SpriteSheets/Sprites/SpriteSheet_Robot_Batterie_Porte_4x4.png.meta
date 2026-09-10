@@ -1,0 +1,727 @@
+fileFormatVersion: 2
+guid: 49d0506e3ebab7747847f7e60c802c2c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6289728374019620151
+    second: SpriteSheet_Robot_Batterie_Porte_4x4_0
+  - first:
+      213: -3097913118229890308
+    second: SpriteSheet_Robot_Batterie_Porte_4x4_1
+  - first:
+      213: -3943298924677929465
+    second: SpriteSheet_Robot_Batterie_Porte_4x4_2
+  - first:
+      213: 5932599891609236139
+    second: SpriteSheet_Robot_Batterie_Porte_4x4_3
+  - first:
+      213: -4363286329299971509
+    second: SpriteSheet_Robot_Batterie_Porte_4x4_4
+  - first:
+      213: -2705105709625012777
+    second: SpriteSheet_Robot_Batterie_Porte_4x4_5
+  - first:
+      213: -6244792507019085901
+    second: SpriteSheet_Robot_Batterie_Porte_4x4_6
+  - first:
+      213: -3204344822175156461
+    second: SpriteSheet_Robot_Batterie_Porte_4x4_7
+  - first:
+      213: 5631552136633378639
+    second: SpriteSheet_Robot_Batterie_Porte_4x4_8
+  - first:
+      213: 4470112289508433532
+    second: SpriteSheet_Robot_Batterie_Porte_4x4_9
+  - first:
+      213: 3611738431111506512
+    second: SpriteSheet_Robot_Batterie_Porte_4x4_10
+  - first:
+      213: -6965003535967061966
+    second: SpriteSheet_Robot_Batterie_Porte_4x4_11
+  - first:
+      213: -6084946423619365934
+    second: SpriteSheet_Robot_Batterie_Porte_4x4_12
+  - first:
+      213: 6012483003080836347
+    second: SpriteSheet_Robot_Batterie_Porte_4x4_13
+  - first:
+      213: -1993116336588700136
+    second: SpriteSheet_Robot_Batterie_Porte_4x4_14
+  - first:
+      213: 1368789475285694780
+    second: SpriteSheet_Robot_Batterie_Porte_4x4_15
+  - first:
+      213: 6770660727913690799
+    second: SpriteSheet_Robot_Batterie_Porte_4x4_16
+  - first:
+      213: 2897360262488607898
+    second: SpriteSheet_Robot_Batterie_Porte_4x4_17
+  - first:
+      213: 8585397943387480212
+    second: SpriteSheet_Robot_Batterie_Porte_4x4_18
+  - first:
+      213: 2090611508053712084
+    second: SpriteSheet_Robot_Batterie_Porte_4x4_19
+  - first:
+      213: 6353647336933451517
+    second: SpriteSheet_Robot_Batterie_Porte_4x4_20
+  - first:
+      213: 7206376608782557535
+    second: SpriteSheet_Robot_Batterie_Porte_4x4_21
+  - first:
+      213: -7968941369358742146
+    second: SpriteSheet_Robot_Batterie_Porte_4x4_22
+  - first:
+      213: 2439820092182530146
+    second: SpriteSheet_Robot_Batterie_Porte_4x4_23
+  - first:
+      213: -3801094913553713428
+    second: SpriteSheet_Robot_Batterie_Porte_4x4_24
+  - first:
+      213: 889593787390460302
+    second: SpriteSheet_Robot_Batterie_Porte_4x4_25
+  - first:
+      213: 8028857778532783212
+    second: SpriteSheet_Robot_Batterie_Porte_4x4_26
+  - first:
+      213: 4191104964473847218
+    second: SpriteSheet_Robot_Batterie_Porte_4x4_27
+  - first:
+      213: -1802944986361692134
+    second: SpriteSheet_Robot_Batterie_Porte_4x4_28
+  - first:
+      213: 3995388661866273465
+    second: SpriteSheet_Robot_Batterie_Porte_4x4_29
+  - first:
+      213: 4881493780662581820
+    second: SpriteSheet_Robot_Batterie_Porte_4x4_30
+  - first:
+      213: 8060612235527325173
+    second: SpriteSheet_Robot_Batterie_Porte_4x4_31
+  - first:
+      213: -7269275478380925423
+    second: SpriteSheet_Robot_Batterie_Porte_4x4_32
+  - first:
+      213: -4728224668865198988
+    second: SpriteSheet_Robot_Batterie_Porte_4x4_33
+  - first:
+      213: 6292946231690199718
+    second: SpriteSheet_Robot_Batterie_Porte_4x4_34
+  - first:
+      213: -5574229051438446697
+    second: SpriteSheet_Robot_Batterie_Porte_4x4_35
+  - first:
+      213: -1355079437247330296
+    second: SpriteSheet_Robot_Batterie_Porte_4x4_36
+  - first:
+      213: -2432547299961282680
+    second: SpriteSheet_Robot_Batterie_Porte_4x4_37
+  - first:
+      213: 3246106210076173315
+    second: SpriteSheet_Robot_Batterie_Porte_4x4_38
+  - first:
+      213: -2905022796701783516
+    second: SpriteSheet_Robot_Batterie_Porte_4x4_39
+  - first:
+      213: -4177068116842653199
+    second: SpriteSheet_Robot_Batterie_Porte_4x4_40
+  - first:
+      213: -1687599748047479867
+    second: SpriteSheet_Robot_Batterie_Porte_4x4_41
+  - first:
+      213: -7842777362819281237
+    second: SpriteSheet_Robot_Batterie_Porte_4x4_42
+  - first:
+      213: -3381885537573295688
+    second: SpriteSheet_Robot_Batterie_Porte_4x4_43
+  - first:
+      213: -3442915582169747599
+    second: SpriteSheet_Robot_Batterie_Porte_4x4_44
+  - first:
+      213: -8250343422611640963
+    second: SpriteSheet_Robot_Batterie_Porte_4x4_45
+  - first:
+      213: 1188756092177678927
+    second: SpriteSheet_Robot_Batterie_Porte_4x4_46
+  - first:
+      213: -893016449180517001
+    second: SpriteSheet_Robot_Batterie_Porte_4x4_47
+  - first:
+      213: 3300323466687884836
+    second: SpriteSheet_Robot_Batterie_Porte_4x4_48
+  - first:
+      213: 3596820224238090523
+    second: SpriteSheet_Robot_Batterie_Porte_4x4_49
+  - first:
+      213: -3005142015435397991
+    second: SpriteSheet_Robot_Batterie_Porte_4x4_50
+  - first:
+      213: -7560915405684138241
+    second: SpriteSheet_Robot_Batterie_Porte_4x4_51
+  - first:
+      213: 2074650745716912236
+    second: SpriteSheet_Robot_Batterie_Porte_4x4_52
+  - first:
+      213: -6458681943629356287
+    second: SpriteSheet_Robot_Batterie_Porte_4x4_53
+  - first:
+      213: -3567820848421623242
+    second: SpriteSheet_Robot_Batterie_Porte_4x4_54
+  - first:
+      213: 1802454143031261989
+    second: SpriteSheet_Robot_Batterie_Porte_4x4_55
+  - first:
+      213: -7987540987527669041
+    second: SpriteSheet_Robot_Batterie_Porte_4x4_56
+  - first:
+      213: 5702777293438466402
+    second: SpriteSheet_Robot_Batterie_Porte_4x4_57
+  - first:
+      213: 6198108133964986563
+    second: SpriteSheet_Robot_Batterie_Porte_4x4_58
+  - first:
+      213: 2805051595494154824
+    second: SpriteSheet_Robot_Batterie_Porte_4x4_59
+  - first:
+      213: -3361498371607336516
+    second: SpriteSheet_Robot_Batterie_Porte_4x4_60
+  - first:
+      213: -2948971234212634934
+    second: SpriteSheet_Robot_Batterie_Porte_4x4_61
+  - first:
+      213: 6210150999096317422
+    second: SpriteSheet_Robot_Batterie_Porte_4x4_62
+  - first:
+      213: 7085756947697136297
+    second: SpriteSheet_Robot_Batterie_Porte_4x4_63
+  - first:
+      213: 8361819482648508528
+    second: SpriteSheet_Robot_Batterie_Porte_4x4_64
+  - first:
+      213: -4599024298083359762
+    second: SpriteSheet_Robot_Batterie_Porte_4x4_65
+  - first:
+      213: -7946458027584625445
+    second: SpriteSheet_Robot_Batterie_Porte_4x4_66
+  - first:
+      213: 7616146521108274064
+    second: SpriteSheet_Robot_Batterie_Porte_4x4_67
+  - first:
+      213: -1465259823219825765
+    second: SpriteSheet_Robot_Batterie_Porte_4x4_68
+  - first:
+      213: -8783654790004172360
+    second: SpriteSheet_Robot_Batterie_Porte_4x4_69
+  - first:
+      213: 380812589761413447
+    second: SpriteSheet_Robot_Batterie_Porte_4x4_70
+  - first:
+      213: -6277868078405965103
+    second: SpriteSheet_Robot_Batterie_Porte_4x4_71
+  - first:
+      213: 3309684997750293220
+    second: SpriteSheet_Robot_Batterie_Porte_4x4_72
+  - first:
+      213: 664699005810620483
+    second: SpriteSheet_Robot_Batterie_Porte_4x4_73
+  - first:
+      213: 574249170361982360
+    second: SpriteSheet_Robot_Batterie_Porte_4x4_74
+  - first:
+      213: -5090835579559533000
+    second: SpriteSheet_Robot_Batterie_Porte_4x4_75
+  - first:
+      213: -1381400004063368465
+    second: SpriteSheet_Robot_Batterie_Porte_4x4_76
+  - first:
+      213: -1248873047203385531
+    second: SpriteSheet_Robot_Batterie_Porte_4x4_77
+  - first:
+      213: -8490950492187894358
+    second: SpriteSheet_Robot_Batterie_Porte_4x4_78
+  - first:
+      213: 8463639967661599031
+    second: SpriteSheet_Robot_Batterie_Porte_4x4_79
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpriteSheet_Robot_Batterie_Porte_4x4_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 959
+        width: 307
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c28dd44e5566b8a0800000000000000
+      internalID: -6289728374019620151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet_Robot_Batterie_Porte_4x4_1
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 959
+        width: 307
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfa72e2be600205d0800000000000000
+      internalID: -3097913118229890308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet_Robot_Batterie_Porte_4x4_2
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 959
+        width: 307
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 706646f35869649c0800000000000000
+      internalID: -3943298924677929465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet_Robot_Batterie_Porte_4x4_3
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 959
+        width: 307
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba2b3ed4b24d45250800000000000000
+      internalID: 5932599891609236139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet_Robot_Batterie_Porte_4x4_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 307
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b42d1c0833e7273c0800000000000000
+      internalID: -4363286329299971509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet_Robot_Batterie_Porte_4x4_5
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 640
+        width: 307
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dd8be970b8857ad0800000000000000
+      internalID: -2705105709625012777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet_Robot_Batterie_Porte_4x4_6
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 640
+        width: 307
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b73b1b1d4a0659a0800000000000000
+      internalID: -6244792507019085901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet_Robot_Batterie_Porte_4x4_7
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 640
+        width: 307
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31733609c51e783d0800000000000000
+      internalID: -3204344822175156461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet_Robot_Batterie_Porte_4x4_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 321
+        width: 307
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f47ef1eb4da472e40800000000000000
+      internalID: 5631552136633378639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet_Robot_Batterie_Porte_4x4_9
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 321
+        width: 307
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e12429177090e30800000000000000
+      internalID: 4470112289508433532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet_Robot_Batterie_Porte_4x4_10
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 321
+        width: 307
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05a2700a7f87f1230800000000000000
+      internalID: 3611738431111506512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet_Robot_Batterie_Porte_4x4_11
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 321
+        width: 307
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 238f75baf26575f90800000000000000
+      internalID: -6965003535967061966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet_Robot_Batterie_Porte_4x4_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 307
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d352e6977ded8ba0800000000000000
+      internalID: -6084946423619365934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet_Robot_Batterie_Porte_4x4_13
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 2
+        width: 307
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf405b09f61a07350800000000000000
+      internalID: 6012483003080836347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet_Robot_Batterie_Porte_4x4_14
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 2
+        width: 307
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8164a9970470754e0800000000000000
+      internalID: -1993116336588700136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet_Robot_Batterie_Porte_4x4_15
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 2
+        width: 307
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3972be86caeef210800000000000000
+      internalID: 1368789475285694780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3608db4445a2371438effda1e2258425
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":4.0},"gridSpriteSize":{"x":307.0,"y":319.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      SpriteSheet_Robot_Batterie_Porte_4x4_0: -6289728374019620151
+      SpriteSheet_Robot_Batterie_Porte_4x4_1: -3097913118229890308
+      SpriteSheet_Robot_Batterie_Porte_4x4_10: 3611738431111506512
+      SpriteSheet_Robot_Batterie_Porte_4x4_11: -6965003535967061966
+      SpriteSheet_Robot_Batterie_Porte_4x4_12: -6084946423619365934
+      SpriteSheet_Robot_Batterie_Porte_4x4_13: 6012483003080836347
+      SpriteSheet_Robot_Batterie_Porte_4x4_14: -1993116336588700136
+      SpriteSheet_Robot_Batterie_Porte_4x4_15: 1368789475285694780
+      SpriteSheet_Robot_Batterie_Porte_4x4_2: -3943298924677929465
+      SpriteSheet_Robot_Batterie_Porte_4x4_3: 5932599891609236139
+      SpriteSheet_Robot_Batterie_Porte_4x4_4: -4363286329299971509
+      SpriteSheet_Robot_Batterie_Porte_4x4_5: -2705105709625012777
+      SpriteSheet_Robot_Batterie_Porte_4x4_6: -6244792507019085901
+      SpriteSheet_Robot_Batterie_Porte_4x4_7: -3204344822175156461
+      SpriteSheet_Robot_Batterie_Porte_4x4_8: 5631552136633378639
+      SpriteSheet_Robot_Batterie_Porte_4x4_9: 4470112289508433532
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
