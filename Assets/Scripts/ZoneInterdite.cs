@@ -3,6 +3,7 @@ using UnityEngine;
 public class ZoneInterdite : MonoBehaviour
 {
     [SerializeField] private Transform pointDepart;
+    [SerializeField] private EffetDegatsJoueur effetDegatsJoueur;
 
     private void OnTriggerEnter2D(Collider2D autre)
     {
@@ -16,6 +17,7 @@ public class ZoneInterdite : MonoBehaviour
         {
             Debug.LogError("Le point de départ n'est pas assigné.");
         }
+        effetDegatsJoueur?.JouerEffetDegat();
         // TODO 3 : replacer le joueur et afficher un message.
         autre.transform.position = pointDepart.position;
         Debug.Log("Le robot retourne au point de départ.");

@@ -325,7 +325,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -457.5, y: -202.5}
+  m_AnchoredPosition: {x: -468.32, y: -215.7}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!225 &147249154
@@ -1043,6 +1043,7 @@ GameObject:
   - component: {fileID: 711271102}
   - component: {fileID: 711271103}
   - component: {fileID: 711271104}
+  - component: {fileID: 711271105}
   m_Layer: 0
   m_Name: Robot
   m_TagString: Player
@@ -1246,6 +1247,23 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &711271105
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 711271097}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 39f0ce34944f01d4ca34f4def62defff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::EffetDegatsJoueur
+  renduRobot: {fileID: 711271100}
+  flashEcran: {fileID: 147249154}
+  couleurDegat: {r: 1, g: 0.25, b: 0.25, a: 1}
+  dureeEffet: 0.45
+  nombreClignotements: 3
 --- !u!1 &714100839
 GameObject:
   m_ObjectHideFlags: 0
@@ -4715,6 +4733,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: '::'
   pointDepart: {fileID: 1354205320}
+  effetDegatsJoueur: {fileID: 0}
 --- !u!1 &1869762857
 GameObject:
   m_ObjectHideFlags: 0
